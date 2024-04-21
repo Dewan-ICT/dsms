@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nahidhasan141400/aamarpay.git"
+    "url": "git+https://github.com/Dewan-ICT/dsms.git"
   },
   "keywords": [
     "node",
@@ -24,9 +24,9 @@
   "author": "Nahid Hasan <nahidhasan141400@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nahidhasan141400/aamarpay/issues"
+    "url": "https://github.com/Dewan-ICT/dsms/issues"
   },
-  "homepage": "https://github.com/nahidhasan141400/aamarpay",
+  "homepage": "https://github.com//Dewan-ICT/dsms",
   "devDependencies": {
     "@changesets/cli": "^2.27.1",
     "@types/node": "^20.10.1",
